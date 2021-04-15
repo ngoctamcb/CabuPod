@@ -16,6 +16,10 @@ public final class Service: ServiceProtocol {
     
     public let name = "Cabu"
     
+    public init(){
+        
+    }
+    
     public func burn(number: Float) -> Bool {
         
         return true
