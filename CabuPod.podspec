@@ -17,6 +17,4 @@ This CocoaPods library helps you perform calculation.
 
   spec.source        = { :git => "https://github.com/ngoctamcb/CabuPod.git", :tag => "#{spec.version}" }
   spec.source_files  = "CabuPod/**/*.{h,m,swift}"
-  spec.frameworks = 'XCTest'
-
 end
